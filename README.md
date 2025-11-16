@@ -99,16 +99,6 @@ Unity Editor의 Scene View에 Roblox Studio 스타일의 직관적인 카메라 
 ### 설정을 초기화하고 싶어요
 - 설정 창의 **Reset to Default** 버튼을 사용하세요
 
-## 🤝 기여
-
-기여를 환영합니다! 다음과 같이 참여할 수 있습니다:
-
-1. 이 저장소를 Fork 합니다
-2. 새로운 브랜치를 만듭니다 (`git checkout -b feature/AmazingFeature`)
-3. 변경사항을 커밋합니다 (`git commit -m 'Add some AmazingFeature'`)
-4. 브랜치에 Push 합니다 (`git push origin feature/AmazingFeature`)
-5. Pull Request를 열어주세요
-
 ## 📄 라이선스
 
 이 프로젝트는 MIT 라이선스 하에 배포됩니다.
